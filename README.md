@@ -98,7 +98,8 @@ Problems Addressed: ![Pain Points](images/pain.png)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Servo-Dog.git
+ git clone https://github.com/<your-username>/Servo-Dog.git
+
 2. Set up Raspberry Pi 4 with Python & PyTorch.
 
 3. Connect sensors (HC-SR04, VL53L0X) and DC motors via TB6612 driver.
