@@ -27,7 +27,7 @@ This system provides a low-cost alternative to traditional guide dogs, costing l
 
 The system consists of the following components:
 
-1. **Wheeled Robot** – Raspberry Pi 4 controls the motors and sensors.
+1. **Wheeled Robot**: Raspberry Pi 4 controls the motors and sensors.
 2. **Sensors**:
    - HC-SR04 Ultrasonic Sensor – detects obstacles.
    - VL53L0X Laser Sensor – measures ground level for navigation.
@@ -41,7 +41,7 @@ The system consists of the following components:
    - Google Speech-to-Text API – voice commands.
 8. **Power Supply** – 5V mobile power bank.
 
-**System Architecture Diagrams**:  
+**System Architecture Diagrams**
 - [Pipeline Image](images/pipeline.png)  
 - [Embedded System Schematic](images/schematic.png)
 
@@ -76,7 +76,7 @@ The system consists of the following components:
 - Developed a working Android app interface.
 - High precision and recall on self-collected NY pedestrian dataset.
 
-**Project Images**:
+**Project Images**
 
 Front View: ![Front](images/bot-front.jpg)  
 Top View: ![Top](images/bot-top.jpg)  
@@ -110,7 +110,7 @@ Problems Addressed: ![Pain Points](images/pain.png)
 
 6. Power system via 5V mobile power bank.
 
-👥 Team
+## 👥 Team
 
 Ayman Aslam Talkani – aat2193@columbia.edu
 
@@ -124,7 +124,7 @@ Instructor: Prof. Xiaofan (Fred) Jiang
 
 Columbia University – EECS Department
 
-📚 References
+## 📚 References
 - [Raspberry Pi 4 Specs](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 - [TB6612 Datasheet](https://www.pololu.com/file/0J450/TB6612FNG.pdf)
 - [HC-SR04 Sensor](https://www.robotshop.com/community/forum/t/hc-sr04-ultrasonic-sensor/10220)
