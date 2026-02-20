@@ -97,7 +97,7 @@ Problems Addressed: ![Pain Points](images/pain.png)
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-```bash
+
  git clone https://github.com/<your-username>/Servo-Dog.git
 
 2. Set up Raspberry Pi 4 with Python & PyTorch.
