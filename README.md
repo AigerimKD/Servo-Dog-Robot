@@ -110,26 +110,4 @@ Problems Addressed: ![Pain Points](images/pain.png)
 
 6. Power system via 5V mobile power bank.
 
-## 👥 Team
 
-Ayman Aslam Talkani – aat2193@columbia.edu
-
-Avik Dhupar – ad3910@columbia.edu
-
-Aigerim Kdyrgaliyeva – ak4733@columbia.edu
-
-Aashi Kapoor – ak4745@columbia.edu
-
-Instructor: Prof. Xiaofan (Fred) Jiang
-
-Columbia University – EECS Department
-
-## 📚 References
-- [Raspberry Pi 4 Specs](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-- [TB6612 Datasheet](https://www.pololu.com/file/0J450/TB6612FNG.pdf)
-- [HC-SR04 Sensor](https://www.robotshop.com/community/forum/t/hc-sr04-ultrasonic-sensor/10220)
-- [VL53L0X Datasheet](https://www.st.com/resource/en/datasheet/vl53l0x.pdf)
-- [Imvisible Dataset](https://example.com/imvisible-dataset)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Google Maps API](https://developers.google.com/maps/documentation)
-- [Google Speech-to-Text API](https://cloud.google.com/speech-to-text/docs)
